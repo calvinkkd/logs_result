@@ -1,0 +1,9 @@
+Use the next 45 minutes to complete the following programming questions. They should be completed using a scripting language of your choice. The questions are intentionally open ended, so we encourage you to use the entire time allocation to produce scripts that are readable and reusable as possible
+
+1)
+The attached logs.txt file contains a line containing details about the response for each HTTP request to a backend system. Write a program to calculate and display:
+a) the number of successful responses
+b) the percentage of each unsuccessful status code
+
+2)
+Write a short program to deploy a VM with four vCPUs and 8GB memory on a major cloud provider of your choice.
